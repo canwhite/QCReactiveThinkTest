@@ -1,0 +1,29 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - SDAutoLayout (2.2.0)
+
+DEPENDENCIES:
+  - BlocksKit
+  - SDAutoLayout
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  SDAutoLayout: c5509e77ae75735d9a39f7bc83dba6d3f75d49d8
+
+PODFILE CHECKSUM: 6208486c26d0a7dcc0b83ad82069c22bb964c43c
+
+COCOAPODS: 1.3.1
