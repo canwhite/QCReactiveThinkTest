@@ -1,0 +1,2 @@
+# QCReactiveThinkTest
+ios响应式编程思维，主要是KVO举例，在model和view之间建立链接
