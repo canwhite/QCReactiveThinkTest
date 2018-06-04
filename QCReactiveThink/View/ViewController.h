@@ -14,7 +14,7 @@
  
  代表KVO：键值监听， 可以用作model和view通信
  
- 区分KVC：简直编码，在model里边遇到id的时候经常用
+ 区分KVC：键值编码，在model里边遇到id的时候经常用
  
 
  
